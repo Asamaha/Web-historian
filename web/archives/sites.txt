@@ -1,0 +1,7 @@
+"www.google.com"
+"www.schepman.org"
+"www.amazon.com"
+"hello.com"
+"www.hello.com"
+"www.google.cim"
+www.amazon.com
